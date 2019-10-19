@@ -1,0 +1,18 @@
+body * {
+    font-family: 'Roboto', arial, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+  padding: 5px;
+}
+
+.right_links {
+  float: right;
+}
