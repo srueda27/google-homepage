@@ -17,14 +17,12 @@ ul {
 
 header {
     line-height: 40px;
-    min-width: 600px;
     border-top: 1px solid #e4e4e4;
 }
 
 footer {
     background: #f2f2f2;
     line-height: 40px;
-    min-width: 600px;
     border-top: 1px solid #e4e4e4;
 }
 
